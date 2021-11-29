@@ -41,7 +41,7 @@ div {
   height: 2000px;
 }
 .static-parent {
-  position: absolute;
+  position: static;
 }
 .relative-parent {
   position: relative;
