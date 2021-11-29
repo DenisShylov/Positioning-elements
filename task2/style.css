@@ -22,10 +22,10 @@ footer {
 }
 
 .red {
-  background-color: red;
+  background-color: green;
   float: left;
 }
 .green {
-  background-color: green;
+  background-color: red;
   float: right;
 }
