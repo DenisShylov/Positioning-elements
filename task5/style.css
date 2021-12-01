@@ -6,8 +6,6 @@
   z-index: 1;
 }
 .nav-item {
-  display: inline-block;
-  line-height: 50%;
   margin-left: 16px;
   color: white;
   float: left;
@@ -15,8 +13,9 @@
 .nav-list {
   padding: 0;
   font-size: 16px;
-  line-height: 0;
-  margin-left: 40px;
+  line-height: 40px;
+  margin: 0;
+  list-style: none;
 }
 .content {
   height: 5000px;
